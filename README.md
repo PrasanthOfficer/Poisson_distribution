@@ -1,8 +1,8 @@
 # Fitting Poisson  distribution
 ```
-Name : SANTHOSH KUMAR P
-Reg No : 212224040295
-Department : CSE
+Name : PRASANTH T
+Reg No : 212224040243
+Department : IT
 Date : 02.05.2025
 ```
 # Aim : 
